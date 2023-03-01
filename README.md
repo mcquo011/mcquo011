@@ -7,7 +7,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a bachelors of science in fisheries biology. Ask me about it!
 
-Watch my contribution graph get eaten by the snake 🐍
-
+## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/mcquo011/mcquo011/blob/output/github-contribution-grid-snake.gif)
 
