@@ -7,3 +7,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a bachelors of science in fisheries biology. Ask me about it!
 
+<a href="https://www.linkedin.com/maggie-mcquown>
+
